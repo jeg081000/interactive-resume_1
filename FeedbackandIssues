@@ -1,0 +1,1 @@
+I am struggling with an issue I am having with the jshint error: "The body of a for in should be wrapped in an if statement to filter unwanted properties from the prototype." I am not sure what this is and don't quite understand the comments in the evaluation. Any additional help would be appreciated. Thanks
